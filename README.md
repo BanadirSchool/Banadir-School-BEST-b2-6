@@ -16,7 +16,7 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 70
+                    <td> 90
                         <td> C
                         <td> COMPUTER</td>
                     </td>
